@@ -1,3 +1,4 @@
+<a href ="https://github.com/Shushu2023/Factory-for-PacMen.git">Go to Repo</a>
 # pacmen
 ## description
 Factory for making pacmen
@@ -10,4 +11,4 @@ Start by getting at least one pacman positioned and viewable.
 
 <img src="PacMan1.png">
 
-<a href ="https://github.com/Shushu2023/Factory-for-PacMen.git">Go to Repo</a>
+

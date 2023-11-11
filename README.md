@@ -1,5 +1,4 @@
 # pacmen
-<a href ="https://github.com/Shushu2023/Factory-for-PacMen.git">Go to Repo</a>
 ## description
 Factory for making pacmen
 You are given a starter.html code.
@@ -10,3 +9,5 @@ You also need to make each pacman bounce off any wall it hits.
 Start by getting at least one pacman positioned and viewable. 
 
 <img src="PacMan1.png">
+
+<a href ="https://github.com/Shushu2023/Factory-for-PacMen.git">Go to Repo</a>
